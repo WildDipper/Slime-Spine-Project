@@ -1,6 +1,12 @@
 # Slime-Spine-Project
 Slime Spine Project With Sprite Sheet
 
+# Animation
+ Idle
+ Walk
+ Attack
+ Die
+
 
 
                                          Slimes
